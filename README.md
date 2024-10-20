@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="ducks.png" width="800" height="200"/>
+  <img src="ducks.png" width="800" height="100"/>
 </div>
 
 ---
