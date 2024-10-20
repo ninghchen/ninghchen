@@ -1,5 +1,5 @@
-<div style="position: relative; text-align: center;">
-  <img src="shiba.png" width="80px"/>
+<div id="header" align="center">
+  <img src="shiba.png" width="100"/>
 </div>
 
 <h1 align="center">
