@@ -1,22 +1,11 @@
-<div align="center">
-  <img src="banff.png" width="800" height="400"/>
-</div>
-
 <div style="position: relative; text-align: center;">
   <!-- Header image -->
-  <img src="path_to_your_header_image.jpg" alt="Header Image" style="width:100%; height: auto;">
-  
-  <!-- Profile image overlapping the header image -->
-  <img src="path_to_your_profile_image.jpg" alt="Profile Image" style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%); width: 100px; height: 100px; border-radius: 50%;">
+  <img src="grid.png" width="1000px"; height="100px">
 
-  <!-- Title under the images -->
-  <h1 style="position: relative; top: 150px;">Bullet Journal</h1>
-</div>
-
----
 
 <h1 align="center">
   Hi, I'm Hannah Chen!
+  <img src="shiba.png" width="80px"/>
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hannahningchen">
