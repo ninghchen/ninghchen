@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ducks.png" width="800" height="100"/>
+  <img src="banff.png" width="800" height="400"/>
 </div>
 
 ---
