@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <div id="header" align="center">
-  <img src="shiba.png" width="150"/>
+  <img src="shiba.png" width="150"/>  <!-- Image from Canva.com -->
   </div>
   Hi, I'm Hannah Chen!
   <div id="badges" align="center">
