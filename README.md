@@ -30,4 +30,6 @@ I am a Computer Science student at the University of Virginia School of Engineer
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 </div>
