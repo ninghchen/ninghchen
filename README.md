@@ -1,22 +1,25 @@
-<div id="header" align="center">
-  <img src="shiba.png" width="100"/>
-</div>
+
 
 <h1 align="center">
+  <div id="header" align="center">
+  <img src="shiba.png" width="150"/>
+  </div>
   Hi, I'm Hannah Chen!
-</h1>
-
-<div id="badges" align="center">
+  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hannahningchen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</h1>
+
+---
+
 <div align="center">
 I am a Computer Science student at the University of Virginia School of Engineering
 </div>
 
-
 ---
+
 <div align = "center">
   
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
