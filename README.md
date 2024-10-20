@@ -1,12 +1,11 @@
 <div style="position: relative; text-align: center;">
-  <!-- Header image -->
-  <img src="grid.png" width="1000px"; height="100px">
-
+  <img src="shiba.png" width="80px"/>
+</div>
 
 <h1 align="center">
   Hi, I'm Hannah Chen!
-  <img src="shiba.png" width="80px"/>
 </h1>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hannahningchen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
