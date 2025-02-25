@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-I am a Computer Science student at the University of Virginia School of Engineering
+I am a Computer Science and Systems Engineering student at the University of Virginia School of Engineering
 </div>
 
 ---
