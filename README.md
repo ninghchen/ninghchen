@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-I am a Computer Science and Systems Engineering student at the University of Virginia School of Engineering
+I am a Systems Engineering student with minors in Computer Science and Applied Mathematics at the University of Virginia School of Engineering 
 </div>
 
 ---
